@@ -11,3 +11,4 @@
 
 #### 課程大綱
 - [1. 環境建置](http://mirdex.github.io/PythonBasic_20231113/1.%20environment.slides.html)
+- [2. 基本概念](http://mirdex.github.io/PythonBasic_20231113/2.%20basic%20concept.slides.html)
