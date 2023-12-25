@@ -19,3 +19,4 @@
 - [7. 函數](http://mirdex.github.io/PythonBasic_20231113/7.%20函數_Q.slides.html)
 - [7-1. 補充-變數與生命週期](http://mirdex.github.io/PythonBasic_20231113/7-1.%20補充%20-%20變數與生命週期.slides.html)
 - [8. 類別](http://mirdex.github.io/PythonBasic_20231113/8.%20類別_Q.slides.html)
+- [9. 例外處理](http://mirdex.github.io/PythonBasic_20231113/10.%20例外處理.slides.html)
