@@ -22,3 +22,4 @@
 - [9. 例外處理](http://mirdex.github.io/PythonBasic_20231113/10.%20例外處理.slides.html)
 - [10. 總複習一](http://mirdex.github.io/PythonBasic_20231113/10.%20總複習一_Q.slides.html)
 - [11. 總複習二](http://mirdex.github.io/PythonBasic_20231113/1.%20模組開發(Q).slides.html)
+- [12. 檔案處理](http://mirdex.github.io/PythonBasic_20231113/12.%20檔案處理_Q.slides.html)
